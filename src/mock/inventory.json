@@ -1,0 +1,20 @@
+{
+  "wood": {
+    "sku": "TEAK-WND-GRD-A",
+    "productName": "Grade A Teak Wooden Boards",
+    "currentStock": 150,
+    "targetStock": 500
+  },
+  "steel": {
+    "sku": "MS-SHFT-8MM",
+    "productName": "Industrial Mild Steel Shafts (8mm)",
+    "currentStock": 800,
+    "targetStock": 1200
+  },
+  "chairs": {
+    "sku": "FUR-ERG-CHR",
+    "productName": "Ergonomic Office Chairs (High-Back)",
+    "currentStock": 12,
+    "targetStock": 80
+  }
+}

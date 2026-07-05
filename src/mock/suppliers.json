@@ -1,0 +1,134 @@
+{
+  "wood": [
+    {
+      "id": "sup-w1",
+      "name": "GreenWood Suppliers Pvt. Ltd.",
+      "pricePerUnit": 850.00,
+      "deliveryDays": 3,
+      "rating": 4.8,
+      "recommendationScore": 98,
+      "isBestMatch": true,
+      "notes": "Optimal balance between delivery time and premium B2B quality wood sourcing.",
+      "contact": "Rahul Sharma (Enterprise Sales)",
+      "email": "rsharma@greenwood.co.in",
+      "address": "45 Industrial Area, Peenya, Bengaluru, Karnataka 560058",
+      "gstin": "29AAAAA2222A1Z2"
+    },
+    {
+      "id": "sup-w2",
+      "name": "Vrindavan Timber Depot",
+      "pricePerUnit": 980.00,
+      "deliveryDays": 2,
+      "rating": 4.2,
+      "recommendationScore": 85,
+      "isBestMatch": false,
+      "notes": "Fastest delivery but carries a 15.3% premium pricing.",
+      "contact": "Aarav Mehta (Accounts Rep)",
+      "email": "amehta@vrindavantimber.in",
+      "address": "12 Ring Road, Mysuru, Karnataka 570008",
+      "gstin": "29BBBBB3333B1Z3"
+    },
+    {
+      "id": "sup-w3",
+      "name": "Malabar Woods & Log Ltd.",
+      "pricePerUnit": 800.00,
+      "deliveryDays": 6,
+      "rating": 4.0,
+      "recommendationScore": 71,
+      "isBestMatch": false,
+      "notes": "Lowest unit cost but delivery time fails standard Friday SLA target.",
+      "contact": "Vikram Nair (Sourcing Officer)",
+      "email": "vnair@malabarwoods.com",
+      "address": "Malabar Port Road, Mangaluru, Karnataka 575001",
+      "gstin": "29CCCCC4444C1Z4"
+    }
+  ],
+  "steel": [
+    {
+      "id": "sup-s1",
+      "name": "Shakti Steel Industries",
+      "pricePerUnit": 450.00,
+      "deliveryDays": 2,
+      "rating": 4.9,
+      "recommendationScore": 99,
+      "isBestMatch": true,
+      "notes": "Highest quality rating and superb enterprise reliability in south India raw materials.",
+      "contact": "Priya Reddy (Sales Specialist)",
+      "email": "preddy@shaktisteel.co.in",
+      "address": "Plot 88, Phase III, IDA Jeedimetla, Hyderabad, Telangana 500055",
+      "gstin": "36DDDDD5555D1Z5"
+    },
+    {
+      "id": "sup-s2",
+      "name": "JSW Steel",
+      "pricePerUnit": 480.00,
+      "deliveryDays": 1,
+      "rating": 4.6,
+      "recommendationScore": 92,
+      "isBestMatch": false,
+      "notes": "Saves 1 day of transit but commands an additional 6.6% markup.",
+      "contact": "Karan Johar (Sales Coordinator)",
+      "email": "kjohar@jsw.in",
+      "address": "JSW Center, Bandra Kurla Complex, Mumbai, Maharashtra 400051",
+      "gstin": "27EEEEE6666E1Z6"
+    },
+    {
+      "id": "sup-s3",
+      "name": "Tata Steel",
+      "pricePerUnit": 430.00,
+      "deliveryDays": 5,
+      "rating": 4.1,
+      "recommendationScore": 78,
+      "isBestMatch": false,
+      "notes": "Cheapest unit cost but delivery time exceeds required urgent SLA.",
+      "contact": "Rohan Tata (Accounts Executive)",
+      "email": "rtata@tatasteel.com",
+      "address": "Tata Steel Works, Jamshedpur, Jharkhand 831001",
+      "gstin": "20FFFFF7777F1Z7"
+    }
+  ],
+  "chairs": [
+    {
+      "id": "sup-c1",
+      "name": "SitWell Ergonomics",
+      "pricePerUnit": 4500.00,
+      "deliveryDays": 10,
+      "rating": 4.7,
+      "recommendationScore": 95,
+      "isBestMatch": true,
+      "notes": "Excellent comfort reviews, solid commercial warranty, and competitive bulk price.",
+      "contact": "Rajesh Patil (Enterprise Accounts)",
+      "email": "rpatil@sitwell.co.in",
+      "address": "202 Posture Lane, Chinchwad, Pune, Maharashtra 411019",
+      "gstin": "27GGGGG8888G1Z8"
+    },
+    {
+      "id": "sup-c2",
+      "name": "ComfortSeat India",
+      "pricePerUnit": 4800.00,
+      "deliveryDays": 7,
+      "rating": 4.3,
+      "recommendationScore": 88,
+      "isBestMatch": false,
+      "notes": "3 days faster delivery, but overall unit costs are higher by ₹300.",
+      "contact": "Sanjay Dutt (Sales Manager)",
+      "email": "sdutt@comfortseat.in",
+      "address": "C-56, Sector 62, Noida, Uttar Pradesh 201301",
+      "gstin": "09HHHHH9999H1Z9"
+    },
+    {
+      "id": "sup-c3",
+      "name": "Godrej Interio",
+      "pricePerUnit": 4300.00,
+      "deliveryDays": 18,
+      "rating": 4.5,
+      "recommendationScore": 82,
+      "isBestMatch": false,
+      "notes": "Lowest unit price, but delivery time of 18 days is close to the margin.",
+      "contact": "Ananya Birla (Sales Lead)",
+      "email": "abirla@godrejinterio.co.in",
+      "address": "Godrej One, Vikhroli, Mumbai, Maharashtra 400079",
+      "gstin": "27IIIII1111I1ZA"
+    }
+  ]
+}

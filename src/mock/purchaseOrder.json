@@ -1,0 +1,12 @@
+{
+  "buyer": {
+    "company": "Nova Furniture Manufacturing Pvt. Ltd.",
+    "contact": "Bhargav (Procurement Manager)",
+    "email": "bhargav@novafurniture.co.in",
+    "address": "400 Innovation Drive, Tech Park, Gachibowli, Hyderabad, Telangana 500081",
+    "gstin": "36AAAAA1111A1Z1"
+  },
+  "taxRate": 0.18,
+  "poPrefix": "PO-IND-2026-",
+  "defaultItemNotes": "Complies with B2B supply line criteria and Indian GST standards"
+}
