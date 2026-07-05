@@ -44,7 +44,7 @@ function DashboardLayout() {
       {/* Footer info */}
       <footer className="relative z-10 border-t border-white/5 py-8 text-center text-xs text-slate-500 bg-slate-950/40 backdrop-blur-sm">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <p className="font-semibold text-slate-400">AgentOps AI • Autonomous Procurement MVP</p>
+          <p className="font-semibold text-slate-400">IntelliOps AI • Autonomous Procurement Platform</p>
           <p className="mt-1">Designed for Hackathons and Enterprise Procurement Automation © 2026. All rights reserved.</p>
         </div>
       </footer>

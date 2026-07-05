@@ -84,7 +84,7 @@ export const POPreview: React.FC = () => {
                 <div>
                   <div className="flex items-center gap-2 mb-2">
                     <span className="font-extrabold text-base tracking-tight text-white">
-                      AgentOps <span className="text-brand-purple">AI</span>
+                      IntelliOps <span className="text-brand-purple">AI</span>
                     </span>
                   </div>
                   <p className="text-xs text-slate-400">Enterprise Procurement Suite</p>

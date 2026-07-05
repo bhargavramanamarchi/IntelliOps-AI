@@ -40,7 +40,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div>
               <span className="text-lg font-extrabold tracking-tight text-white bg-clip-text">
-                AgentOps <span className="bg-gradient-to-r from-brand-cyan to-brand-purple bg-clip-text text-transparent">AI</span>
+                IntelliOps <span className="bg-gradient-to-r from-brand-cyan to-brand-purple bg-clip-text text-transparent">AI</span>
               </span>
               <div className="flex items-center gap-1.5 text-[10px] font-semibold text-brand-cyan uppercase tracking-wider">
                 <span className="h-1 w-1 rounded-full bg-brand-cyan animate-ping" />
@@ -206,7 +206,7 @@ export const Navbar: React.FC = () => {
 
                 {/* Footer */}
                 <div className="pt-5 border-t border-white/5 text-[10px] text-slate-500 font-medium">
-                  AgentOps AI Drawer Panel • Press ESC or click mask to dismiss.
+                  IntelliOps AI Drawer Panel • Press ESC or click mask to dismiss.
                 </div>
 
               </div>

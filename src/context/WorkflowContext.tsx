@@ -134,7 +134,7 @@ export const WorkflowProvider: React.FC<{ children: React.ReactNode }> = ({ chil
 
   // Load API Key from localStorage on mount
   useEffect(() => {
-    const savedKey = localStorage.getItem('agentops_gemini_key');
+    const savedKey = localStorage.getItem('intelliops_gemini_key');
     if (savedKey) {
       setGeminiApiKeyState(savedKey);
     }
@@ -142,7 +142,7 @@ export const WorkflowProvider: React.FC<{ children: React.ReactNode }> = ({ chil
 
   const setGeminiApiKey = (key: string) => {
     setGeminiApiKeyState(key);
-    localStorage.setItem('agentops_gemini_key', key);
+    localStorage.setItem('intelliops_gemini_key', key);
     addToast(key ? 'Gemini API Key updated successfully!' : 'Gemini API Key cleared.', 'info');
   };
 
